@@ -1,0 +1,17 @@
+{
+  "name": "copilot-compiler-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "start": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@copilot-extensions/preview-sdk": "^5.0.1",
+    "node-fetch": "^3.3.2"
+  }
+}
